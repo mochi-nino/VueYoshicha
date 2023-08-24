@@ -99,7 +99,7 @@
     background-color: #eee;
     border-radius: 30px;
     margin-inline: 10px;
-    display: none;
+    /* display: none; */
     overflow: hidden;
 }
 
